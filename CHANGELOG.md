@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/bloop-box/bloop-box-led-board-i2c/compare/v1.1.0...v1.1.1) (2023-01-04)
+
+
+### Bug Fixes
+
+* remove unused inner layers ([c112062](https://github.com/bloop-box/bloop-box-led-board-i2c/commit/c112062d2597ceb17fb5727a46f859cddcc7f90b))
+
 ## [1.1.0](https://github.com/bloop-box/bloop-box-led-board-i2c/compare/v1.0.0...v1.1.0) (2023-01-04)
 
 
