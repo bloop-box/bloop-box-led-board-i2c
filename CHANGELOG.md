@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/bloop-box/bloop-box-led-board-i2c/compare/v1.0.0...v1.1.0) (2023-01-04)
+
+
+### Features
+
+* change LED controller to AW2013 ([517fc95](https://github.com/bloop-box/bloop-box-led-board-i2c/commit/517fc958171c60ddbc27ec58a538962ac4f9bda0))
+
 ## 1.0.0 (2023-01-03)
 
 
