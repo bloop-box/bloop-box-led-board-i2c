@@ -6,4 +6,4 @@
 
 [Documentation](https://bloop-box.github.io/bloop-box-led-board-i2c)
 
-Add up to three RGB LEDs with I2C support by using the IS31FL3199 IC 
+I2C controlled RGB LED using the AW2013DNR IC 
