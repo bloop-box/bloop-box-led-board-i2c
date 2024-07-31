@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/bloop-box/bloop-box-led-board-i2c/compare/v1.1.1...v1.2.0) (2024-07-31)
+
+
+### Features
+
+* flip sides of LED and connector ([a46903d](https://github.com/bloop-box/bloop-box-led-board-i2c/commit/a46903df39b7e47a1dc64a092ec3a519044f70c6))
+
+
+### Bug Fixes
+
+* copper edge clearance ([7132363](https://github.com/bloop-box/bloop-box-led-board-i2c/commit/71323633ee513763d4c472e3ab9d34552948cb7d))
+
 ## [1.1.1](https://github.com/bloop-box/bloop-box-led-board-i2c/compare/v1.1.0...v1.1.1) (2023-01-04)
 
 
